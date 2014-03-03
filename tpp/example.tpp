@@ -3,11 +3,11 @@
 --author tao.wang
 --title Examples
 --date today
-Introductuin to tpp.
-Some examples.
+Introduction to tpp.
+balabala..........
 --newpage one
 --beginoutput
-text align left
+text align left(default)
 ---
 --center text in the center
 ---
@@ -22,7 +22,6 @@ $ echo "hello world!"
 
     * list 2
 ---
-
     * list 3
 ---
 
